@@ -769,6 +769,9 @@ input[type="search"].search_top_form_text {
 .navi-trigger-hamberg-line {
   width: 12px; height: 2px; position: absolute; top: 50%; right: 0; margin-top: -1px; background-color: currentColor;
 }
+
+
+
 .navi-trigger-hamberg-line {
   -webkit-transform-origin: 50% 50%;
   -moz-transform-origin: 50% 50%;
