@@ -4037,6 +4037,7 @@ button, input[type="submit"]
 .tab-pane ol li,
 .accordion-group ol li{
   list-style: decimal; margin-left: 30px;
+    list-style-position:inside
 }
 #comments .tab-pane ol li,
 #comments .tab-pane ul li{
