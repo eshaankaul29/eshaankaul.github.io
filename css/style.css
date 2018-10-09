@@ -131,7 +131,7 @@ input[type="time"], input[type="week"], input[type="number"], input[type="email"
 input[type="color"], .uneditable-input,input[type="submit"],button, .ux-btn { 
   width:100%; border-radius:0; border: none; border: 1px solid currentColor; margin-bottom:20px; padding: 10px;
   height: 40px; width: 100%; letter-spacing: 0px; 
-  box-shadow:none; -webkit-appearance: none; background:none; color: #313139;
+  box-shadow:none; -webkit-appearance: none; background:none; color: #000;
 }
 input,select,textarea{-moz-border-radius: 0px; -webkit-border-radius:0px; border-radius:0px; }
 input[type="text"],input[type="search"],input[type="password"],textarea { -webkit-appearance: none; }
@@ -3609,7 +3609,7 @@ body.ux-bordered,.bordered-top, .bordered-bottom
 /* Plain Text Logo - Dark Logo */
 .logo-h1 
 {
-  color: #313139; 
+  color: #000; 
 }
 
 /* Plain Text Logo - Light Logo */
@@ -3625,7 +3625,7 @@ body.ux-bordered,.bordered-top, .bordered-bottom
 .light-logo.header-scrolled #header .socialmeida-a, 
 .light-logo.header-scrolled #navi_wrap > ul > li > a 
 {
-  color: #313139; 
+  color: #000; 
 } 
 
 /* Menu on Header Light */  
@@ -3642,7 +3642,7 @@ body.ux-bordered,.bordered-top, .bordered-bottom
 /* Menu Item on Expanded Menu Panel */
 #navi a,.menu-panel-inn .socialmeida-,.menu-panel-inn .socialmeida-a:hover,.search-top-btn-class
 {
-  color: #313139; 
+  color: #000; 
 }
 
 /* Content Page */
@@ -3652,16 +3652,16 @@ body.ux-bordered,.bordered-top, .bordered-bottom
 .jqbar.vertical span,.team-item-con-back a,.team-item-con-back i,.team-item-con-h p,.slider-panel-item h2.slider-title a,.bignumber-item.post-color-default,.blog-item .date-block,.iterlock-caption-tit-a,
 .clients_wrap .carousel-btn .carousel-btn-a, .image3-1-unit-tit
 { 
-  color:#313139; 
+  color:#000; 
 }
 .post_social:before, .post_social:after,.title-ux.line_under_over,.gallery-wrap-sidebar .entry, .social-share 
 { 
-  border-color: #313139; 
+  border-color: #000; 
 } 
 .team-item-con,.ux-btn:before,.title-ux.line_both_sides:before,.title-ux.line_both_sides:after,.galleria-info,#float-bar-triggler,.float-bar-inn,.short_line:after, 
 .separator_inn.bg- ,.countdown_section 
 {
-  background-color: #313139;
+  background-color: #000;
 }
     
 /* Content Page - Content */
@@ -3691,74 +3691,74 @@ h3#reply-title small, #comments .nav-tabs li.active h3#reply-title .logged,#comm
 /* Gallery Post Property Title */
 .gallery-info-property-tit 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Gallery Post Property Content */ 
 .gallery-info-property-con,.gallery-info-property-con a:hover 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Gallery Post Link Button */
 .gallery-link-a,.gallery-link-a:hover 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Previous & Next */
 .post-navi-single, .arrow-item 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Comment Title */
 .comment-box-tit,.comm-reply-title 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Comment Content */
 .comm-u-wrap 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Comment Author Name */
 .comment-meta .comment-author,.comment-meta .comment-author-a 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Portfolio List */
 /* Filter Text by Default */
 .filters-a 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Filter Text Focused */
 .filters-a:hover,.active > .filters-a
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Load More Button */
 .tw-style-a.ux-btn,.tw-style-a.ux-btn:hover
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Portfolio List - Title for Item */
 .grid-item-tit,.grid-item-tit-a:hover
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Portfolio List - Tag for Item */
 .grid-item-cate-a
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Portfolio List - Mask for Item Card Hightlight*/
@@ -3772,7 +3772,7 @@ h3#reply-title small, #comments .nav-tabs li.active h3#reply-title .logged,#comm
 /* Text & Border */
 .ux-btn, button, input[type="submit"] 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Text Mouseover */
@@ -3784,7 +3784,7 @@ h3#reply-title small, #comments .nav-tabs li.active h3#reply-title .logged,#comm
 /* BG Mouseover */
 .ux-btn:hover,button:hover, input[type="submit"]:hover,.woocommerce button.button.alt:hover,.woocommerce-page #content input.button:hover,.woocommerce a.button.alt:hover
 { 
-  background-color: #313139; border-color: #313139;
+  background-color: #000; border-color: #000;
 }
 
 
@@ -3800,27 +3800,27 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 .moudle input[type="text"]:focus, .moudle textarea:focus, input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:focus, textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus,
 .comment-reply-title:hover
 { 
-  color: #313139;
+  color: #000;
 }
  
 /* Widget */
 /* Title Text*/
 .widget-container .widget-title, .widget-container .widget-title a 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Content Text*/
 .widget-container,.widget-container a 
 { 
-  color: #313139;
+  color: #000;
 }
 
 /* Footer */
 /* Footer Text Color */
 .footer-bar,.footer-bar a,.copyright, .copyright a,.footer-info,.footer-info a,#footer .logo-h1
 { 
-  color: #313139; 
+  color: #000; 
 }
 
 /* Footer Bg Color */
